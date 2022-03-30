@@ -1,4 +1,4 @@
-# capstone_files
+# Kombudroid Brewing
 Capstone Project code
 
 Final_Code_maybe.py is the main executing code for continuous operation
